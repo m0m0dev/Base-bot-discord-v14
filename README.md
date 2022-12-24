@@ -1,2 +1,1 @@
-# tout d'abord veuillez installer les modules en fesant "npm i" et regler les configurations dans config.json
-# pour toute demande veuillez me dm sur discord Mozu#0212
+# base de bot discord en v14 pour toute demande d'aide merci de me dm sur discord Mozu#0212
