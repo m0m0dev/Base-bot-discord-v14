@@ -1,5 +1,5 @@
 {
-  "name": "funny-handler",
+  "name": "mozu",
   "version": "1.0.0",
   "description": "Handler de Funny",
   "main": "index.js",
@@ -12,5 +12,14 @@
     "discordjs-button-pagination": "^3.0.1",
     "moment": "^2.29.3",
     "quick.db": "^9.0.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m0m0dev/Base-bot-discord-v14.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m0m0dev/Base-bot-discord-v14/issues"
+  },
+  "homepage": "https://github.com/m0m0dev/Base-bot-discord-v14#readme"
 }
