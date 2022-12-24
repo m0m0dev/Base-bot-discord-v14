@@ -1,0 +1,16 @@
+{
+  "name": "funny-handler",
+  "version": "1.0.0",
+  "description": "Handler de Funny",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Funny",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "discordjs-button-pagination": "^3.0.1",
+    "moment": "^2.29.3",
+    "quick.db": "^9.0.8"
+  }
+}
